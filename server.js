@@ -68,5 +68,6 @@ app.listen(PORT, () => {
             }
             
         }).catch((err) => console.error(err))
-      }
+      };
+      Menu();
     
