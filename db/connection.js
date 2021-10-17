@@ -11,4 +11,6 @@ connection.connect();
 
 //each query call into a promise
 connection.query = util.promisify(connection.query);
+
+
 module.exports = connection;
