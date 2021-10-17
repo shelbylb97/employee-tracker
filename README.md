@@ -5,9 +5,9 @@ This is a back-end app for an ecommerce company to be used via integrated termin
 ## User story
 
 ```md
-AS A manager at an internet retail company
-I WANT a back end for my e-commerce website that uses the latest technologies
-SO THAT my company can compete with other e-commerce companies
+AS A business owner
+I WANT to be able to view and manage the departments, roles, and employees in my company
+SO THAT I can organize and plan my business
 ```
 
 ## Application 
